@@ -1,0 +1,32 @@
+
+Learning Crypyography and Network Security
+------------------------------------------
+
+1. enigmaco.de/enigma/enigma.html
+2. atom.smasher.org/pgp
+2. www.networkdls.com/articles/keylength.pdf
+3. Internet Security Glossary: www.ietf.org/rfc/rfc2828.txt
+5. Main services for Network Enivironments (rfc2828 Page: 154)
+	5.1. Confidentiality
+	5.2. Accountability
+	5.3. Authentication
+	5.4. Availability
+6. www.computerhistory.org/timeline
+7. www.gao.gov/assets/660/652170.pdf
+8. Attacks
+	8.1. Passive Attack
+		8.1.1. Evesdroppping
+		8.1.2. Hard to detect
+		8.1.3. Emphasis on prevention
+	8.2. Reconnaissance Attack
+		8.2.1. Ping Scan
+		8.2.2. Port Scan
+	8.3 Active Attack
+		8.3.1. Denial of service
+		8.3.2. Buffer overflow
+		8.3.3. Password Attack
+9. Encryption
+	9.1. Symmetric
+	9.2. Asymmetric
+10. Applied Cryptography: www.schneier.com/books/applied_cryptography
+11. www.cs.du.edu/~snarayan/crypt/vigenera.html
