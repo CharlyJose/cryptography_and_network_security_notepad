@@ -30,3 +30,15 @@ Learning Crypyography and Network Security
 	9.2. Asymmetric
 10. Applied Cryptography: www.schneier.com/books/applied_cryptography
 11. www.cs.du.edu/~snarayan/crypt/vigenera.html
+12. www.formaestudio.com/rijndaelinspector
+13. esrg.sourceforge.net/utils_win_up/md5sum
+14. www.passwordmeter.com
+15. www.sha1-online.com
+16. hashkiller.co.uk/Cracker/SHA1
+17. wiki.wireshark.org/SampleCaptures
+18. web.mit.edu/network/pgp.html
+19. www.gpg4win.org
+20. www.rfc-editor.org/rfc/rfc2401.txt
+21. tools.ietf.org/html/rfc4301
+
+
